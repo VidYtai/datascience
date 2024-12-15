@@ -4,5 +4,8 @@
     footer {
       display: none;
     }
+    a[href="https://github.com/VidYtai/datascience"] {
+      display: none;
+    }
 </style>
 ```

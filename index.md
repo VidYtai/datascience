@@ -6,3 +6,10 @@
     }
 </style>
 ```
+```css
+<style>
+    a[href="https://github.com/VidYtai/datascience"] {
+      display: none;
+    }
+</style>
+```
